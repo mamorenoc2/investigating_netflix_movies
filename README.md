@@ -2,7 +2,7 @@ Claro, puedo ayudarte a crear un buen README para tu proyecto de análisis de da
 
 # Análisis de Datos de Netflix
 
-![Grafica](/assets/grafica.jpg)
+![Grafica](/assests/grafica.png)
 
 ## Descripción del Proyecto
 

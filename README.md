@@ -43,7 +43,7 @@ Para replicar o explorar este análisis, sigue los siguientes pasos:
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
 
    ```
-   git clone <URL_del_repositorio>
+   git clone <https://github.com/mamorenoc2/investigating_netflix_movies_and_guest_stars_in_the_office.git>
    ```
 
 2. Abre el Jupyter Notebooks de el archivo **notebook.ipynb** para explorar el análisis de datos.

@@ -1,5 +1,3 @@
-Claro, puedo ayudarte a crear un buen README para tu proyecto de análisis de datos sobre Netflix. Aquí tienes una descripción inicial que puedes utilizar como punto de partida:
-
 # Análisis de Datos de Netflix
 
 ![Grafica](/assests/grafica.png)
